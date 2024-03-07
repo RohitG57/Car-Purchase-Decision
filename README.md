@@ -6,10 +6,10 @@ This dataset contains details of 1000 customers who intend to buy a car, conside
 
 - Columns
   
-User ID
-Gender
-Age
-Annual Salary
+User ID,
+Gender,
+Age,
+Annual Salary,
 Purchase Decision (No = 0, Yes = 1)
 
 - Problem Statement
